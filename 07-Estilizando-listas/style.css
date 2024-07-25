@@ -4,7 +4,7 @@
 }
 
 ul {
-  list-style: url("images/icon.png") disc inside;
+  list-style: url("./images/icon.png") disc inside;
   background-color: purple;
 }
 
